@@ -1,2 +1,2 @@
 # Python-part-02
-conitnuação do python
+continuação do python
